@@ -1,0 +1,4 @@
+spring.application.name=demo2server:
+  port: 8081
+application:
+  name: demo1
